@@ -15,9 +15,9 @@ Bu proje, basit bir yapılacaklar listesi uygulamasıdır. Kullanıcılar yapıl
 ## Kullanım
 
 1. Projeyi bilgisayarınıza klonlayın:
-   ```bash
-   git clone https://github.com/kullaniciadi/todo-list.git
-
+```bash
+git clone https://github.com/kullaniciadi/todo-list.git
+```
 2. Proje dizinine gidin:
 ```
 cd PatikaJSSecondWorkshop
